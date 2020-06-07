@@ -1,0 +1,184 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  margin: 100px auto;
+  border-style: dotted none none;
+  border-color: #abc2e8;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  height: 0;
+  width: 4%;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+  background-color: white;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  margin: auto;
+  width:30%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+
+
+
+.btn {
+  color: #11999E;
+}
+
+.programmer {
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.programming-skills {
+  margin-right: 30px;
+  width: 25%;
+  height: 25%;
+  float: left;
+}
+
+.creative-skills {
+  margin-left: 30px;
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+
+.forgerer {
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.profile-avatar {
+  width: 25%;
+  height: 25%;
+}
+
+.skills {
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+}
+
+.skill-programming {
+  margin: 0 auto 5% auto;
+}
+
+.skill-creative {
+  margin: 5% auto 0 auto;
+}
+
+.design-and-development-skills-title {
+  color: #11999E;
+}
+
+.creative-skills-title {
+  color: #11999E;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 3px 0px #fce2c1;
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	background-color:#ffc477;
+	border-radius:5px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #cc9f52;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+	background-color:#fb9e25;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 100px 30px 100px 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+.footer-link:hover {
+ color: #EAF6F6;
+ }
+
+.copyright-formula {
+  font-size: 0.75rem;
+  margin-top: 50px;
+  color: #EAF6F6;
+}
+.My-work-out-there-sub-title {
+  color: #11999E;
+}
+.my-skills-title {
+  text-align: center;
+}
+.keep-it-unreal-blurb {
+  margin: 40px auto 60px;
+  width:40%;
+}
